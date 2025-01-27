@@ -1,53 +1,53 @@
 # Aluraflix
 
-Aluraflix é uma aplicação de catálogo de vídeos inspirada, projetada para gerenciar e visualizar vídeos organizados por categorias. Este projeto faz parte dos desafios do programa Oracle Next Education (ONE).
+Aluraflix is an inspired video catalog application designed to manage and view videos organized by categories. This project is part of the challenges from the Oracle Next Education (ONE) program.
 
 ---
 
-## **Recursos**
-- Listagem de vídeos por categorias.
-- CRUD completo: Criar, Ler, Atualizar e Excluir vídeos.
-- Uso de uma API REST para armazenamento de vídeos.
-- Design responsivo e estilização com `styled-components`.
-- Contexto global para gerenciamento do estado dos vídeos.
+## **Features**
+- Listing videos by categories.
+- Full CRUD functionality: Create, Read, Update, and Delete videos.
+- Usage of a REST API for video storage.
+- Responsive design and styling with `styled-components`.
+- Global context for managing the video state.
 
 ---
 
-## **Tecnologias Utilizadas**
-- **React**: Biblioteca para construir interfaces de usuário.
-- **Axios**: Gerenciamento de solicitações HTTP.
-- **React Icons**: Ícones para botões de edição e exclusão.
-- **Styled-components**: Estilização de componentes.
-- **MockAPI**: Simulação de uma API REST.
-- **React Router**: Navegação na aplicação (se aplicável).
+## **Technologies Used**
+- **React**: Library for building user interfaces.
+- **Axios**: HTTP request management.
+- **React Icons**: Icons for edit and delete buttons.
+- **Styled-components**: Component styling.
+- **MockAPI**: Simulating a REST API.
+- **React Router**: Navigation in the application (if applicable).
 
 ---
 
-## **Instalação**
-Siga estas etapas para instalar e executar o projeto localmente:
+## **Installation**
+Follow these steps to install and run the project locally:
 
-1. Clone o repositório:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/seu-usuario/aluraflix.git
+   git clone https://github.com/your-username/aluraflix.git
    cd aluraflix
    ```
 
-2. Instale as dependências:
+2. Install dependencies:
    ```bash
    npm install
    ```
 
-3. Execute a aplicação:
+3. Run the application:
    ```bash
    npm start
    ```
 
 ---
 
-## **Uso**
-1. Adicione um vídeo fornecendo o título, link e categoria.
-2. Edite os vídeos diretamente pela interface usando o ícone de edição.
-3. Exclua vídeos usando o ícone de lixeira com confirmação de segurança.
+## **Usage**
+1. Add a video by providing the title, link, and category.
+2. Edit videos directly from the interface using the edit icon.
+3. Delete videos using the trash icon with a confirmation prompt.
 
 
 
