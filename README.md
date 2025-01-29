@@ -2,7 +2,9 @@
 
 Aluraflix is an inspired video catalog application designed to manage and view videos organized by categories. This project is part of the challenges from the Oracle Next Education (ONE) program.
 
----
+<p align="center">
+   <img alt="Aluraflix screenshot" title="Aluraflix screenshot" width="500" src="public/aluraflix.png"/>
+</p>
 
 ## **Features**
 - Listing videos by categories.
